@@ -1,7 +1,7 @@
 # Laszlo Fodor
 
-Sales leader who builds with AI. 15+ years in sales and sales leadership,
-now working in B2B new business in Budapest.
+B2B sales professional who builds with AI. 15+ years in sales, 10+ of them
+in sales leadership; now in B2B new business in Budapest.
 
 **Building:** Horizon, a portfolio tracker I designed and built with AI
 (Claude Code) as its product owner. In daily use since September 2026:
